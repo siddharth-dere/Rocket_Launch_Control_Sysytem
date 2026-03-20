@@ -1,6 +1,6 @@
 # 🚀 Rocket Launch Control System
 
-A simulation of a rocket launch control system built entirely in **C** using **Linux System Calls and POSIX APIs**. No hardware required — all sensor data is simulated using random values, timers, and shared memory.
+A simulation of a rocket launch control system built entirely  using **Linux System Calls and POSIX APIs**. No hardware required — all sensor data is simulated using random values, timers, and shared memory.
 
 ---
 
@@ -236,7 +236,7 @@ Terminal 2                     Terminal 1
 
 ## Author
 
-**Your Name**
+
 - GitHub: @siddharth-dere
 
 ---
