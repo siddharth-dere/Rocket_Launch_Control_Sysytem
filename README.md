@@ -1,4 +1,4 @@
-# 🚀 RocketSim — Linux IPC-Based Rocket Launch Simulation
+#  Rocket Launch Control Sysytem
 
 A simulation of a rocket launch control system built entirely in **C** using **Linux System Calls and POSIX APIs**. No hardware required — all sensor data is simulated using random values, timers, and shared memory.
 
@@ -422,10 +422,8 @@ make clean   # remove binaries, object files, and log files
 ## Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: @siddharth-dere
 
----
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
+
