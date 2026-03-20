@@ -1,4 +1,4 @@
-# 🚀 Rocket Launch Control System
+#  Rocket Launch Control System
 
 A simulation of a rocket launch control system built entirely  using **Linux System Calls and POSIX APIs**. No hardware required — all sensor data is simulated using random values, timers, and shared memory.
 
