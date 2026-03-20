@@ -1,0 +1,21 @@
+# Compiled binaries
+rocket_sim
+control
+
+# Object files
+obj/
+*.o
+
+# Log and temp files
+/tmp/rocket_sim.log
+/tmp/rkt_cmd
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
